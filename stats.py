@@ -9,4 +9,5 @@ def calculateStats(numbers):
         "avg": avg,
         "min": min(numbers),
         "max": max(numbers)
+        
     }

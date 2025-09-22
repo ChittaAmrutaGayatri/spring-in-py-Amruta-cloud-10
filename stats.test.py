@@ -17,6 +17,5 @@ class StatsTest(unittest.TestCase):
         self.assertTrue(math.isnan(computedStats["min"]))
         self.assertTrue(math.isnan(computedStats["max"]))
 
-
 if __name__ == "__main__":
     unittest.main()
